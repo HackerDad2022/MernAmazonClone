@@ -44,3 +44,8 @@ Amazon Clone
 2. update fetch data
    . using http methods
 3. get state from useReducer using switch statements
+
+10-Add-Bootstrap
+
+1. npm install react-bootstrap bootstrap
+2. update App.js

@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { useEffect, useReducer } from "react";
 import logger from "use-reducer-logger";
 import axios from "axios";
-//import data from '../data';
+
 function HomeScreen() {
   const reducer = (state, action) => {
     switch (action.type) {
@@ -47,12 +47,12 @@ function HomeScreen() {
           <div>{error}</div>
         ) : (
           products.map((product) => (
-            <div className="product" key={product.slug}>
-              <Link to={`/product/${product.slug}`}>
+            <div className="product" key={product.name}>
+              <Link to={`/product/${product.name}`}>
                 <img src={product.image} alt={product.name} />
               </Link>
               <div className="product-info">
-                <Link to={`/product/${product.slug}`}>
+                <Link to={`/product/${product.name}`}>
                   <p>{product.name}</p>
                 </Link>
                 <p>
