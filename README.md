@@ -49,3 +49,11 @@ Amazon Clone
 
 1. npm install react-bootstrap bootstrap
 2. update App.js
+
+11-Create-Product-and-Rating-Component
+
+1. create rating component
+2. create product component
+3. use rating component in product component
+4. import fontAwesome in index.html
+5. create Products and Ratings components in frontend/ src/components

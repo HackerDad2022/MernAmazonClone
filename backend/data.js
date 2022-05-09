@@ -2,7 +2,7 @@ const data = {
   products: [
     {
       name: "superdry Slim shirt",
-      slug: "nike-slim-shirt",
+      slug: "superdry-slim-shirt",
       category: "Shirts",
       image: "/images/p1.jpg", // 679px × 829px
       price: 120,
@@ -14,7 +14,7 @@ const data = {
     },
     {
       name: "Feragami Fit Shirt",
-      slug: "adidas-fit-shirt",
+      slug: "feragami-fit-shirt",
       category: "Shirts",
       image: "/images/p2.jpg",
       price: 250,
