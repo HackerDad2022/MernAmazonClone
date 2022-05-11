@@ -57,3 +57,8 @@ Amazon Clone
 3. use rating component in product component
 4. import fontAwesome in index.html
 5. create Products and Ratings components in frontend/ src/components
+
+12-Create-Product-Details-Screen
+
+1. Fetch product from Backend
+2. create 3 columns for image, info and action
