@@ -76,3 +76,9 @@ Amazon Clone
 2. define reducer
 3. create store provider
 4. implement add to cart button click handler
+
+15-Complete-Add-To-Cart
+
+1. update server.js to use \_id
+2. Check if item exists in the cart
+3. check count in stock in the backend
