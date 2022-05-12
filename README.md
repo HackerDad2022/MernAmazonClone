@@ -82,3 +82,9 @@ Amazon Clone
 1. update server.js to use \_id
 2. Check if item exists in the cart
 3. check count in stock in the backend
+
+16-Create-Cart-Screen
+
+1. create 2 columns
+2. display items list
+3. create action column
