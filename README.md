@@ -105,8 +105,16 @@ Amazon Clone
 2. add email and password
 3. add signin button
 
-19-Connect-To-MongoDB-Databse
+19-Connect-To-MongoDB-Database
 
 1. create atlass mongoDB database
 2. install local mongoDB database
 3. connect to mongodb database
+
+20-Seed-Sample-Products
+
+1. Create product model
+2. create User model
+3. create seed route
+4. use route in server.js
+5. seed sample product
